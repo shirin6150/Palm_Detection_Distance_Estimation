@@ -11,6 +11,8 @@ with np.load('MultiMatrix_2.npz') as data:
 mp_hands = mp.solutions.hands
 mp_drawing = mp.solutions.drawing_utils
 
+
+
 # Initialize the webcam
 cap = cv2.VideoCapture(0)
 
