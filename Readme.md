@@ -1,5 +1,5 @@
 
-# Palm Detection and Estimation
+# Palm Detection and Distance Estimation
 
 ## Description
 
