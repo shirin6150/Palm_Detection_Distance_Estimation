@@ -1,5 +1,5 @@
 
-# Palm Estimation Project
+# Palm Detection and Estimation
 
 ## Description
 
